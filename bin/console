@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "makerspace/react/rails"
+require "makerspace/react/rails2026"
 require "irb"
 IRB.start(__FILE__)
