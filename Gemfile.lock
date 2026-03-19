@@ -6,15 +6,12 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (10.5.0)
+    rake
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.16)
+  bundler
   makerspace-react-rails2026!
-  rake (~> 10.0)
-
-BUNDLED WITH
-   1.16.4
+  rake
