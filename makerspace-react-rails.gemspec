@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "makerspace/react/rails/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "makerspace-react-rails"
+  spec.name          = "makerspace-react-rails-2026"
   spec.version       = Makerspace::React::Rails::VERSION
-  spec.authors       = ["Will Lynch"]
-  spec.email         = ["will.lynch@manchestermakerspace.org"]
+  spec.authors       = ["Manchester Makerspace"]
+  spec.email         = ["kkadow@manchestermakerspace.org"]
 
-  spec.summary       = %q{Makerspace-react but for Rails.}
-  spec.homepage      = "https://github.com/ManchesterMakerspace/makerspace-react-rails"
+  spec.summary       = %q{Makerspace-react-2026 but for Rails.}
+  spec.homepage      = "https://github.com/ManchesterMakerspace/makerspace-react-rails-2026"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
