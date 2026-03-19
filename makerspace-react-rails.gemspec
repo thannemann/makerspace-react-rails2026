@@ -5,7 +5,7 @@ require "makerspace/react/rails/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "makerspace-react-rails-2026"
-  spec.version       = Makerspace::React::Rails::VERSION
+  spec.version       = Makerspace::React::Rails-2026::VERSION
   spec.authors       = ["Manchester Makerspace"]
   spec.email         = ["kkadow@manchestermakerspace.org"]
 
