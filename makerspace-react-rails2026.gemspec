@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["kkadow@manchestermakerspace.org"]
 
   spec.summary       = %q{Makerspace-react-2026 but for Rails.}
-  spec.homepage      = "https://github.com/ManchesterMakerspace/makerspace-react-Rails-2026"
+  spec.homepage      = "https://github.com/ManchesterMakerspace/makerspace-react-Rails2026"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
