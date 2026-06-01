@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    makerspace-react-rails2026 (0.1.1)
+    makerspace-react-rails2026
 
 GEM
   remote: https://rubygems.org/
